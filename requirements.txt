@@ -1,0 +1,11 @@
+matplotlib==3.10.7
+numpy
+pillow
+packaging
+pyparsing
+python-dateutil
+six
+contourpy
+cycler
+fonttools
+kiwisolver
